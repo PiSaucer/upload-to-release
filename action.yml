@@ -1,4 +1,4 @@
-name: 'Upload to Release Action'
+name: 'Upload to Release Action - Node 16'
 description: 'A GitHub Action that uploads a file to a new release.'
 author: 'PiSaucer'
 inputs:
