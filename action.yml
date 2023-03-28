@@ -1,6 +1,6 @@
 name: 'Upload to Release Action'
 description: 'A GitHub Action that uploads a file to a new release.'
-author: 'Shopify'
+author: 'PiSaucer'
 inputs:
   name:
     description: 'Artifact name'
