@@ -5,7 +5,7 @@
   "main": "lib/main.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Shopify/upload-to-release.git"
+    "url": "git+https://github.com/pisaucer/upload-to-release.git"
   },
   "keywords": [
     "actions",
