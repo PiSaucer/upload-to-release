@@ -1,4 +1,4 @@
-# Upload to Release GitHub Action
+# Upload to Release GitHub Action - Node 16
 
 A GitHub Action that uploads a file to a new release.
 
@@ -17,7 +17,7 @@ jobs:
           content-type: text/plain # Optional
 ```
 
-## Shoulders
+## Inspiration
 
 This was inspired by:
 
